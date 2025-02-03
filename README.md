@@ -34,20 +34,6 @@ A state-of-the-art implementation of an Extreme Learning Machine (ELM) with PCA 
 - Python 3.8+
 - GPU recommended for large datasets
 
-### Setup
-```bash
-git clone https://github.com/yourusername/elm-pca-image-classification.git
-cd elm-pca-image-classification
-
-# Create virtual environment
-python -m venv elm_env
-source elm_env/bin/activate  # Linux/MacOS
-# elm_env\Scripts\activate  # Windows
-
-# Install dependencies
-pip install -r requirements.txt
-```
-
 ## Usage 🚀
 
 ### Dataset Structure
